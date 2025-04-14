@@ -9,7 +9,6 @@
   "outputDirectory": "dist",
   "framework": "vite",
   "installCommand": "npm install",
-  "nodeVersion": "20.x",
   "builds": [
     {
       "src": "package.json",
